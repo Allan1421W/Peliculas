@@ -1,0 +1,43 @@
+body{
+    font-family: Arial;
+}
+header{
+    padding: 60px;
+    background-color: beige;
+    text-align: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+nav a{
+    display: flex;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    justify-content: center;
+}
+section{
+    padding: 40px;
+    background-color: beige;
+}
+section p{
+    display: flex;
+    padding: 30px;
+}
+img{
+    display: flex;
+    width: 200px;
+    height: 300px;
+    padding: 10px;
+}
+section div{
+    display: flex;
+    padding: 30px;
+}
+footer{
+    display: flex;
+    background-color: black;
+    color: white
+}
